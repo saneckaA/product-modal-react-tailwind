@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product-modal-react-tailwind/static/css/main.478312b8.css",
+    "main.js": "/product-modal-react-tailwind/static/js/main.080deb33.js",
+    "static/js/787.0f294f2e.chunk.js": "/product-modal-react-tailwind/static/js/787.0f294f2e.chunk.js",
+    "static/media/headphone.png": "/product-modal-react-tailwind/static/media/headphone.4ba3361ad4ce042e0b8b.png",
+    "index.html": "/product-modal-react-tailwind/index.html",
+    "main.478312b8.css.map": "/product-modal-react-tailwind/static/css/main.478312b8.css.map",
+    "main.080deb33.js.map": "/product-modal-react-tailwind/static/js/main.080deb33.js.map",
+    "787.0f294f2e.chunk.js.map": "/product-modal-react-tailwind/static/js/787.0f294f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478312b8.css",
+    "static/js/main.080deb33.js"
+  ]
+}
