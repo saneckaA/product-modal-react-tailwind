@@ -5,7 +5,9 @@
 This is one of the mini projects from the Tailwind CSS learning course.
 
 ### Desktop
-![](https://github.com/saneckaA/product-modal-react-tailwind/blob/main/src/images/product-desktop.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/saneckaA/product-modal-react-tailwind/blob/main/src/images/product-desktop.PNG?raw=true" />
+</p>
 
 ### Mobile
 <p align="center">
