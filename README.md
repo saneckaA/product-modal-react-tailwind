@@ -4,6 +4,14 @@
 
 This is one of the mini projects from the Tailwind CSS learning course.
 
+### Desktop
+![](https://github.com/saneckaA/product-modal-react-tailwind/blob/main/src/images/product-desktop.PNG?raw=true)
+
+### Mobile
+<p align="center">
+  <img src="https://github.com/saneckaA/product-modal-react-tailwind/blob/main/src/images/product-mobile.PNG?raw=true" />
+</p>
+
 ## Demo
 [Product modal- demo](https://saneckaa.github.io/product-modal-react-tailwind/)
 
